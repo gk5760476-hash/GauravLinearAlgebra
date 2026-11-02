@@ -112,7 +112,7 @@ docs/
 ## 4. Week 0: Setup (2–3 days)
 
 - [x] `git init`
-- [ ] First commit containing the README, this plan, and the spec (waiting for a git name and email)
+- [x] First commit containing the README, this plan, and the spec; pushed to [GitHub](https://github.com/gk5760476-hash/GauravLinearAlgebra) with CI passing
 - [x] Scaffold a Vite React + TypeScript app with `strict: true`
 - [x] Add ESLint, Prettier, Vitest, fast-check, Playwright, and axe
 - [x] Set up CI to run, in order: typecheck → lint → unit tests → e2e tests (runs once the repo is on GitHub)
